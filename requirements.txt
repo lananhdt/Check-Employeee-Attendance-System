@@ -1,9 +1,8 @@
-pandas
-faiss-cpu
-numpy
-Pillow
-matplotlib
-torch
-torchvision
-tqdm
-facenet-pytorch
+faiss-cpu==1.11.0
+numpy==1.26.0
+matplotlib==3.10.3
+plotly==6.2.0
+torchvision==0.17.2
+scikit-learn==1.7.0
+facenet-pytorch==2.6.0
+opencv-python-headless==4.8.1.78
