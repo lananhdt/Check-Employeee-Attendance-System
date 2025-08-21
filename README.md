@@ -68,8 +68,6 @@ This project builds a real-time employee face attendance system that:
 ```text
 Check-Employee-Attendance-System/
 ├── check_attendance.py     # Main code
-├── facenet_label_map.npy   # Labels of Index
-├── facenet_features.index  # Faiss Index
 ├── requirements.txt        # Python dependencies
 ├── Dataset/                # Dataset
 │   └── Avatar_employee-name.jpg
