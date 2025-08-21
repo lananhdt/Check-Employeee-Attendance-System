@@ -1,0 +1,9 @@
+pandas
+faiss-cpu
+numpy
+Pillow
+matplotlib
+torch
+torchvision
+tqdm
+facenet-pytorch
